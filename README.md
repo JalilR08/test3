@@ -1,3 +1,3 @@
 # test3
-Jalil Rodriguez
-Louis Spann
+- Jalil Rodriguez
+- Louis Spann
